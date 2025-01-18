@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://livioribeiro.github.io/selva/</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://livioribeiro.github.io/selva/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://livioribeiro.github.io/selva/pt/"/>
+    </url>
+    <url>
+        <loc>https://livioribeiro.github.io/selva/background/</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://livioribeiro.github.io/selva/background/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://livioribeiro.github.io/selva/pt/background/"/>
+    </url>
+    <url>
+        <loc>https://livioribeiro.github.io/selva/configuration/</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://livioribeiro.github.io/selva/configuration/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://livioribeiro.github.io/selva/pt/configuration/"/>
+    </url>
+    <url>
+        <loc>https://livioribeiro.github.io/selva/handlers/</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://livioribeiro.github.io/selva/handlers/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://livioribeiro.github.io/selva/pt/handlers/"/>
+    </url>
+    <url>
+        <loc>https://livioribeiro.github.io/selva/logging/</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://livioribeiro.github.io/selva/logging/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://livioribeiro.github.io/selva/pt/logging/"/>
+    </url>
+    <url>
+        <loc>https://livioribeiro.github.io/selva/routing/</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://livioribeiro.github.io/selva/routing/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://livioribeiro.github.io/selva/pt/routing/"/>
+    </url>
+    <url>
+        <loc>https://livioribeiro.github.io/selva/services/</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://livioribeiro.github.io/selva/services/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://livioribeiro.github.io/selva/pt/services/"/>
+    </url>
+    <url>
+        <loc>https://livioribeiro.github.io/selva/startup/</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://livioribeiro.github.io/selva/startup/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://livioribeiro.github.io/selva/pt/startup/"/>
+    </url>
+    <url>
+        <loc>https://livioribeiro.github.io/selva/structure/</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://livioribeiro.github.io/selva/structure/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://livioribeiro.github.io/selva/pt/structure/"/>
+    </url>
+    <url>
+        <loc>https://livioribeiro.github.io/selva/tutorial/</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://livioribeiro.github.io/selva/tutorial/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://livioribeiro.github.io/selva/pt/tutorial/"/>
+    </url>
+    <url>
+        <loc>https://livioribeiro.github.io/selva/extensions/overview/</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://livioribeiro.github.io/selva/extensions/overview/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://livioribeiro.github.io/selva/pt/extensions/overview/"/>
+    </url>
+    <url>
+        <loc>https://livioribeiro.github.io/selva/extensions/data/memcached/</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://livioribeiro.github.io/selva/extensions/data/memcached/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://livioribeiro.github.io/selva/pt/extensions/data/memcached/"/>
+    </url>
+    <url>
+        <loc>https://livioribeiro.github.io/selva/extensions/data/redis/</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://livioribeiro.github.io/selva/extensions/data/redis/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://livioribeiro.github.io/selva/pt/extensions/data/redis/"/>
+    </url>
+    <url>
+        <loc>https://livioribeiro.github.io/selva/extensions/data/sqlalchemy/</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://livioribeiro.github.io/selva/extensions/data/sqlalchemy/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://livioribeiro.github.io/selva/pt/extensions/data/sqlalchemy/"/>
+    </url>
+    <url>
+        <loc>https://livioribeiro.github.io/selva/extensions/templates/jinja/</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://livioribeiro.github.io/selva/extensions/templates/jinja/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://livioribeiro.github.io/selva/pt/extensions/templates/jinja/"/>
+    </url>
+    <url>
+        <loc>https://livioribeiro.github.io/selva/extensions/templates/mako/</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://livioribeiro.github.io/selva/extensions/templates/mako/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://livioribeiro.github.io/selva/pt/extensions/templates/mako/"/>
+    </url>
+    <url>
+        <loc>https://livioribeiro.github.io/selva/middleware/overview/</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://livioribeiro.github.io/selva/middleware/overview/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://livioribeiro.github.io/selva/pt/middleware/overview/"/>
+    </url>
+    <url>
+        <loc>https://livioribeiro.github.io/selva/middleware/staticfiles_uploads/</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://livioribeiro.github.io/selva/middleware/staticfiles_uploads/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://livioribeiro.github.io/selva/pt/middleware/staticfiles_uploads/"/>
+    </url>
+    <url>
+        <loc>https://livioribeiro.github.io/selva/pt/</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://livioribeiro.github.io/selva/pt/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://livioribeiro.github.io/selva/"/>
+    </url>
+    <url>
+        <loc>https://livioribeiro.github.io/selva/pt/background/</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://livioribeiro.github.io/selva/pt/background/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://livioribeiro.github.io/selva/background/"/>
+    </url>
+    <url>
+        <loc>https://livioribeiro.github.io/selva/pt/configuration/</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://livioribeiro.github.io/selva/pt/configuration/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://livioribeiro.github.io/selva/configuration/"/>
+    </url>
+    <url>
+        <loc>https://livioribeiro.github.io/selva/pt/handlers/</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://livioribeiro.github.io/selva/pt/handlers/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://livioribeiro.github.io/selva/handlers/"/>
+    </url>
+    <url>
+        <loc>https://livioribeiro.github.io/selva/pt/logging/</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://livioribeiro.github.io/selva/pt/logging/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://livioribeiro.github.io/selva/logging/"/>
+    </url>
+    <url>
+        <loc>https://livioribeiro.github.io/selva/pt/routing/</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://livioribeiro.github.io/selva/pt/routing/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://livioribeiro.github.io/selva/routing/"/>
+    </url>
+    <url>
+        <loc>https://livioribeiro.github.io/selva/pt/services/</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://livioribeiro.github.io/selva/pt/services/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://livioribeiro.github.io/selva/services/"/>
+    </url>
+    <url>
+        <loc>https://livioribeiro.github.io/selva/pt/startup/</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://livioribeiro.github.io/selva/pt/startup/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://livioribeiro.github.io/selva/startup/"/>
+    </url>
+    <url>
+        <loc>https://livioribeiro.github.io/selva/pt/structure/</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://livioribeiro.github.io/selva/pt/structure/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://livioribeiro.github.io/selva/structure/"/>
+    </url>
+    <url>
+        <loc>https://livioribeiro.github.io/selva/pt/tutorial/</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://livioribeiro.github.io/selva/pt/tutorial/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://livioribeiro.github.io/selva/tutorial/"/>
+    </url>
+    <url>
+        <loc>https://livioribeiro.github.io/selva/pt/extensions/overview/</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://livioribeiro.github.io/selva/pt/extensions/overview/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://livioribeiro.github.io/selva/extensions/overview/"/>
+    </url>
+    <url>
+        <loc>https://livioribeiro.github.io/selva/pt/extensions/data/memcached/</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://livioribeiro.github.io/selva/pt/extensions/data/memcached/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://livioribeiro.github.io/selva/extensions/data/memcached/"/>
+    </url>
+    <url>
+        <loc>https://livioribeiro.github.io/selva/pt/extensions/data/redis/</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://livioribeiro.github.io/selva/pt/extensions/data/redis/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://livioribeiro.github.io/selva/extensions/data/redis/"/>
+    </url>
+    <url>
+        <loc>https://livioribeiro.github.io/selva/pt/extensions/data/sqlalchemy/</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://livioribeiro.github.io/selva/pt/extensions/data/sqlalchemy/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://livioribeiro.github.io/selva/extensions/data/sqlalchemy/"/>
+    </url>
+    <url>
+        <loc>https://livioribeiro.github.io/selva/pt/extensions/templates/jinja/</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://livioribeiro.github.io/selva/pt/extensions/templates/jinja/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://livioribeiro.github.io/selva/extensions/templates/jinja/"/>
+    </url>
+    <url>
+        <loc>https://livioribeiro.github.io/selva/pt/extensions/templates/mako/</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://livioribeiro.github.io/selva/pt/extensions/templates/mako/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://livioribeiro.github.io/selva/extensions/templates/mako/"/>
+    </url>
+    <url>
+        <loc>https://livioribeiro.github.io/selva/pt/middleware/overview/</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://livioribeiro.github.io/selva/pt/middleware/overview/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://livioribeiro.github.io/selva/middleware/overview/"/>
+    </url>
+    <url>
+        <loc>https://livioribeiro.github.io/selva/pt/middleware/staticfiles_uploads/</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://livioribeiro.github.io/selva/pt/middleware/staticfiles_uploads/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://livioribeiro.github.io/selva/middleware/staticfiles_uploads/"/>
+    </url>
+</urlset>
